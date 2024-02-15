@@ -13,5 +13,5 @@
 <p align="left">
 <a href="https://linkedin.com/in/atifanwar2843" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atifanwar2843" height="30" width="40" /></a>
 </p>
-
+[![STATA Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Stata_Logo.svg/320px-Stata_Logo.svg.png)](https://www.stata.com/)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atifecon&show_icons=true&locale=en&layout=compact" alt="atifecon" /></p>
