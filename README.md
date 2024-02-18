@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atif Anwar</h1>
-<h3 align="center">A graduate student of Economics, with interests in development economics and political economy. With a strong foundation in applied econometrics, proficiency in R and STATA and fieldwork experience. I am looking for RA positions in Development Economics..</h3>
+<h3 align="center">A graduate student of Economics, with interests in development economics and political economy. With a strong foundation in applied econometrics, proficiency in R and STATA, and fieldwork experience. I am looking for RA positions in Development Economics..</h3>
 
 - 🔭 I’m currently working on **Poverty Growth and Inequality in India**
 
