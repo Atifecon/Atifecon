@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Geospatial Analysis, Scraping and Interactive Visualisation**
 
-- I’m currently reading **Power and Progress by Daron Acemoglu**
+- I’m currently reading [**Power and Progress by Daron Acemoglu**](https://books.google.co.in/books/about/Power_and_Progress.html?id=BV2HEAAAQBAJ&source=kp_book_description&redir_esc=y)
 
 - 💬 Feel free to talk about **Econ, Politics and Poetry**
 
