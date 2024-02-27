@@ -5,8 +5,7 @@
 
 - 🌱 I’m currently learning **Geospatial Analysis, Scraping and Interactive Visualisation**
 
-- ![image](https://github.com/Atifecon/Atifecon/assets/159643144/480d7be7-ed80-429e-8838-88bb3fe75ced)
-  I’m currently reading Technology
+- I’m currently reading **Power and Progress by Daron Acemoglu**
 
 - 💬 Ask me about **Econ, Politics and Poetry**
 
