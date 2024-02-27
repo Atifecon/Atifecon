@@ -5,6 +5,9 @@
 
 - 🌱 I’m currently learning **Geospatial Analysis, Scraping and Interactive Visualisation**
 
+- ![image](https://github.com/Atifecon/Atifecon/assets/159643144/480d7be7-ed80-429e-8838-88bb3fe75ced)
+  I’m currently reading Technology
+
 - 💬 Ask me about **Econ, Politics and Poetry**
 
 - 📫 How to reach me **atif.anwar22_mec@apu.edu.in**
