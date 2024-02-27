@@ -7,9 +7,9 @@
 
 - I’m currently reading **Power and Progress by Daron Acemoglu**
 
-- 💬 Ask me about **Econ, Politics and Poetry**
+- 💬 Feel free to talk about **Econ, Politics and Poetry**
 
-- 📫 How to reach me **atif.anwar22_mec@apu.edu.in**
+- 📫 Reach out to me **atif.anwar22_mec@apu.edu.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
